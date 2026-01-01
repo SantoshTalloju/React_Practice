@@ -1,0 +1,14 @@
+.calculator {
+    border: 1px solid rgba(0, 0, 0, 0.262);
+    width: 200px;
+    border-radius: 5px;
+}
+
+/* Center the calculator on the page */
+/* body, #root {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} */
+
